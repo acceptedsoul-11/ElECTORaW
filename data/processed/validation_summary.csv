@@ -1,0 +1,4 @@
+year,total_rows,missing_state,missing_constituency,missing_candidate,invalid_vote_rows,nota_rows_detected,exact_duplicate_rows,distinct_states,distinct_constituencies
+2014,8355,0,0,0,0,511,0,33,511
+2019,8597,0,0,0,0,543,0,36,543
+2024,8901,0,0,0,0,542,0,36,542

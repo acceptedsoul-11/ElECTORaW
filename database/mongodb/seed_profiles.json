@@ -1,0 +1,50 @@
+[
+  {
+    "person_key": "sansad:4589",
+    "canonical_name": "Narendra Modi",
+    "aliases": ["MODI, SHRI NARENDRA", "NARENDRA MODI", "Modi, Shri Narendra"],
+    "party": "Bharatiya Janata Party",
+    "current_constituency": "Varanasi",
+    "current_state": "Uttar Pradesh",
+    "bio": "Indian politician and social worker; the official Digital Sansad profile records his service as Prime Minister and election to the 16th, 17th and 18th Lok Sabhas.",
+    "birth": {"date": "1950-09-17", "place": "Vadnagar, Mahesana, Gujarat"},
+    "education": "B.A. and M.A. in Political Science; the Digital Sansad profile lists Gujarat University and Delhi University.",
+    "career": ["Prime Minister of India", "Chief Minister of Gujarat (2001–2014)", "Member, Gujarat Legislative Assembly (four terms)"],
+    "verification_status": "official_source",
+    "completeness": 82,
+    "source_references": [{"title": "Digital Sansad member biography", "url": "https://sansad.in/ls/members/biography/4589?from=members", "source_type": "official_government"}],
+    "last_successful_refresh": "2026-10-27"
+  },
+  {
+    "person_key": "sansad:4074",
+    "canonical_name": "Rahul Gandhi",
+    "aliases": ["GANDHI, SHRI RAHUL", "RAHUL GANDHI", "Gandhi, Shri Rahul"],
+    "party": "Indian National Congress",
+    "current_constituency": "Rae Bareli",
+    "current_state": "Uttar Pradesh",
+    "bio": "Indian politician and strategy consultant; the official Digital Sansad profile records his election to the 14th, 15th, 16th, 17th and 18th Lok Sabhas.",
+    "birth": {"date": "1970-06-19", "place": "Delhi"},
+    "education": "M.Phil.; the Digital Sansad profile lists Rollins College, Florida and Trinity College, Cambridge University.",
+    "career": ["Leader of Opposition, Lok Sabha", "Member, Committee on Defence", "Member, Standing Committee on External Affairs"],
+    "verification_status": "official_source",
+    "completeness": 80,
+    "source_references": [{"title": "Digital Sansad member biography", "url": "https://sansad.in/ls/members/biography/4074?from=members", "source_type": "official_government"}],
+    "last_successful_refresh": "2026-10-27"
+  },
+  {
+    "person_key": "sansad:564",
+    "canonical_name": "Akhilesh Yadav",
+    "aliases": ["YADAV, SHRI AKHILESH", "AKHILESH YADAV", "Yadav, Shri Akhilesh"],
+    "party": "Samajwadi Party",
+    "current_constituency": "Kannauj",
+    "current_state": "Uttar Pradesh",
+    "bio": "Indian politician and agriculturist; the official Digital Sansad profile records his service across multiple Lok Sabha terms and committee memberships.",
+    "birth": {"date": "1973-07-01", "place": "Saifai, Etawah, Uttar Pradesh"},
+    "education": "B.E.; the Digital Sansad profile lists the University of Mysore.",
+    "career": ["Member, Committee on Science and Technology, Environment, Forests and Climate Change", "Chief Minister of Uttar Pradesh (2012–2017)", "Member of Lok Sabha across multiple terms"],
+    "verification_status": "official_source",
+    "completeness": 78,
+    "source_references": [{"title": "Digital Sansad member biography", "url": "https://sansad.in/ls/members/biography/564?from=members", "source_type": "official_government"}],
+    "last_successful_refresh": "2026-10-27"
+  }
+]

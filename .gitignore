@@ -1,0 +1,54 @@
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node.js / Next.js
+node_modules/
+.next/
+out/
+dist/
+
+# Local databases and exports
+database/mongodb/data/
+database/mongodb/mongod.log
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+*.bak
+
+# Logs
+*.log
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local certificates and private keys
+database/certificates/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local launcher output
+START_ELECTORAW.bat.bak

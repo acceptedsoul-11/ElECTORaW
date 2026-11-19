@@ -1,0 +1,161 @@
+year,state,official_constituency,official_winner,official_party,candidate_name,candidate_state,candidate_constituency,candidate_party,name_similarity,constituency_similarity,combined_score
+2014,Chhattisgarh,Bastar,Dinesh Kashyap,Bharatiya Janata Party,DINESH SHAH,Maharashtra,Mumbai North,SVPP,0.8,0.333,0.683
+2014,Chhattisgarh,Bastar,Dinesh Kashyap,Bharatiya Janata Party,DINESH MAHATO,Jharkhand,Jamshedpur,IND,0.741,0.375,0.649
+2014,Chhattisgarh,Bastar,Dinesh Kashyap,Bharatiya Janata Party,UMED SINGH KASHYAP,Uttar Pradesh,Shahjahanpur,BSP,0.75,0.333,0.646
+2014,Chhattisgarh,Bastar,Dinesh Kashyap,Bharatiya Janata Party,DINESH VAGHELA,Gujarat,Ahmedabad East,AAAP,0.714,0.4,0.636
+2014,Chhattisgarh,Bastar,Dinesh Kashyap,Bharatiya Janata Party,DINESH KUMAR,Uttar Pradesh,Maharajganj,IND,0.692,0.353,0.607
+2014,Chhattisgarh,Bilaspur,Lakhan Lal Sahu,Bharatiya Janata Party,LAKHAN LAL CHADHAR,Madhya Pradesh,TIKAMGARH,IND,0.788,0.353,0.679
+2014,Chhattisgarh,Bilaspur,Lakhan Lal Sahu,Bharatiya Janata Party,MANILAL SAHU,Bihar,Jhanjharpur,BSP,0.741,0.421,0.661
+2014,Chhattisgarh,Bilaspur,Lakhan Lal Sahu,Bharatiya Janata Party,LAKHAN SINGH,Rajasthan,BHARATPUR,IPGP,0.667,0.588,0.647
+2014,Chhattisgarh,Bilaspur,Lakhan Lal Sahu,Bharatiya Janata Party,MAKHAN LAL,Punjab,Bathinda,BSP(A),0.72,0.375,0.634
+2014,Chhattisgarh,Bilaspur,Lakhan Lal Sahu,Bharatiya Janata Party,TAPAN KUMAR SAHA,West Bengal,Bolpur,INC,0.581,0.714,0.614
+2014,Chhattisgarh,Durg,Tamradhwaj Sahu,Indian National Congress,RAJO SAH,Bihar,Madhepura,IND,0.609,0.462,0.572
+2014,Chhattisgarh,Durg,Tamradhwaj Sahu,Indian National Congress,HARISH SAHU,Madhya Pradesh,INDORE,SamSP,0.615,0.4,0.562
+2014,Chhattisgarh,Durg,Tamradhwaj Sahu,Indian National Congress,ANIRUD SAHU,Bihar,Madhubani,SJP(R),0.615,0.308,0.538
+2014,Chhattisgarh,Durg,Tamradhwaj Sahu,Indian National Congress,RAM PRASAD SARMAH,Assam,Tezpur,BJP,0.562,0.4,0.522
+2014,Chhattisgarh,Durg,Tamradhwaj Sahu,Indian National Congress,RAMADHAR SINGH,Bihar,Jahanabad,CPI(ML)(L),0.621,0.154,0.504
+2014,Chhattisgarh,Janjgir-Champa,Kamla Patle,Bharatiya Janata Party,KAILASH PATEL,Madhya Pradesh,KHARGONE,IND,0.75,0.182,0.608
+2014,Chhattisgarh,Janjgir-Champa,Kamla Patle,Bharatiya Janata Party,ANIL PALE,Madhya Pradesh,UJJAIN,BA S D,0.7,0.3,0.6
+2014,Chhattisgarh,Janjgir-Champa,Kamla Patle,Bharatiya Janata Party,AJAY PAL,Uttar Pradesh,Baghpat,IND,0.632,0.476,0.593
+2014,Chhattisgarh,Janjgir-Champa,Kamla Patle,Bharatiya Janata Party,KAMAL NATH,Madhya Pradesh,CHHINDWARA,INC,0.667,0.333,0.583
+2014,Chhattisgarh,Janjgir-Champa,Kamla Patle,Bharatiya Janata Party,KAILASH PANDEY,Uttarakhand,Nainital-udhamsingh Nagar,CPI(ML)(L),0.64,0.41,0.583
+2014,Chhattisgarh,Kanker,Vikram  Usendi,Bharatiya Janata Party,IBRAHIM SYED,Andhra Pradesh,Mahbubnagar,IND,0.64,0.353,0.568
+2014,Chhattisgarh,Kanker,Vikram  Usendi,Bharatiya Janata Party,KARAM SINGH,Punjab,Sangrur,IND,0.583,0.462,0.553
+2014,Chhattisgarh,Kanker,Vikram  Usendi,Bharatiya Janata Party,VIKRAM UTTAM KASABE,Maharashtra,Solapur,IND,0.625,0.308,0.546
+2014,Chhattisgarh,Kanker,Vikram  Usendi,Bharatiya Janata Party,VIMAL INDORIA,Rajasthan,Sikar,JMBP,0.538,0.545,0.54
+2014,Chhattisgarh,Kanker,Vikram  Usendi,Bharatiya Janata Party,B.VIKRAMAN,Tamil Nadu,Madurai,CPM,0.609,0.308,0.533
+2014,Chhattisgarh,Korba,Dr. Banshilal Mahto,Bharatiya Janata Party,MANILAL MAHTO,Jharkhand,Dhanbad,IND,0.774,0.333,0.664
+2014,Chhattisgarh,Korba,Dr. Banshilal Mahto,Bharatiya Janata Party,RAM LAL MAHTO,Jharkhand,Ranchi,SUCI,0.71,0.364,0.623
+2014,Chhattisgarh,Korba,Dr. Banshilal Mahto,Bharatiya Janata Party,PHALJIT MAHTO,Jharkhand,Kodarma,IND,0.581,0.667,0.602
+2014,Chhattisgarh,Korba,Dr. Banshilal Mahto,Bharatiya Janata Party,RANJIT MAHTO,Jharkhand,Ranchi,BMUP,0.667,0.364,0.591
+2014,Chhattisgarh,Korba,Dr. Banshilal Mahto,Bharatiya Janata Party,RAMASHISH MAHTO,Bihar,Sheohar,IND,0.667,0.333,0.583
+2014,Chhattisgarh,Mahasamund,Chandu Lal Sahu (Chandu Bhaiya),Bharatiya Janata Party,NANDLAL SINGH CHOUHAN (NANDU BHAIYA),Madhya Pradesh,KHANDWA,IND,0.73,0.471,0.665
+2014,Chhattisgarh,Mahasamund,Chandu Lal Sahu (Chandu Bhaiya),Bharatiya Janata Party,HAMIDULLAH CHAUDHARY,Uttar Pradesh,Domariyaganj,NCP,0.612,0.455,0.573
+2014,Chhattisgarh,Mahasamund,Chandu Lal Sahu (Chandu Bhaiya),Bharatiya Janata Party,CHANDRA BHUSHAN SHARMA,Bihar,Jahanabad,AAAP,0.588,0.526,0.573
+2014,Chhattisgarh,Mahasamund,Chandu Lal Sahu (Chandu Bhaiya),Bharatiya Janata Party,CHANDRA SHEKHAR DUBEY,Jharkhand,Dhanbad,AITC,0.6,0.471,0.568
+2014,Chhattisgarh,Mahasamund,Chandu Lal Sahu (Chandu Bhaiya),Bharatiya Janata Party,NANDLAL SINGH CHOUHAN,Madhya Pradesh,KHANDWA,IND,0.56,0.471,0.538
+2014,Chhattisgarh,Raigarh,Vishnu Deo Sai,Bharatiya Janata Party,VISHNU KUMAR,Haryana,Hisar,IND,0.615,0.5,0.587
+2014,Chhattisgarh,Raigarh,Vishnu Deo Sai,Bharatiya Janata Party,VINOD SAH,Bihar,Sitamarhi,IND,0.609,0.5,0.582
+2014,Chhattisgarh,Raigarh,Vishnu Deo Sai,Bharatiya Janata Party,VISHNU DAYAL RAM,Jharkhand,Palamau,BJP,0.667,0.286,0.571
+2014,Chhattisgarh,Raigarh,Vishnu Deo Sai,Bharatiya Janata Party,SHITIN KESHRWANI,Madhya Pradesh,SAGAR,IND,0.533,0.667,0.567
+2014,Chhattisgarh,Raigarh,Vishnu Deo Sai,Bharatiya Janata Party,VINEET SAHAI,Uttar Pradesh,Mirzapur,AITC,0.615,0.4,0.562
+2014,Chhattisgarh,Raipur,Ramesh Bais,Bharatiya Janata Party,RAMESH A,Tamil Nadu,Viluppuram,IND,0.842,0.5,0.757
+2014,Chhattisgarh,Raipur,Ramesh Bais,Bharatiya Janata Party,RAJESHWARI,Uttar Pradesh,Mainpuri,IND,0.667,0.714,0.679
+2014,Chhattisgarh,Raipur,Ramesh Bais,Bharatiya Janata Party,RAMESH,Rajasthan,KARAULI-DHOLPUR,BYS,0.706,0.571,0.672
+2014,Chhattisgarh,Raipur,Ramesh Bais,Bharatiya Janata Party,RAMESHWARI,Uttar Pradesh,Kheri,IND,0.762,0.364,0.662
+2014,Chhattisgarh,Raipur,Ramesh Bais,Bharatiya Janata Party,ADESH TYAGI,Uttar Pradesh,Mirzapur,IND,0.636,0.714,0.656
+2014,Chhattisgarh,Rajnandgaon,Abhishek Singh,Bharatiya Janata Party,ASHOK SINGH,Uttar Pradesh,Ambedkar Nagar,INC,0.8,0.4,0.7
+2014,Chhattisgarh,Rajnandgaon,Abhishek Singh,Bharatiya Janata Party,SHAMSHER SINGH,Chandigarh,CHANDIGARH,IND,0.714,0.476,0.655
+2014,Chhattisgarh,Rajnandgaon,Abhishek Singh,Bharatiya Janata Party,JAGDISH SINGH,Madhya Pradesh,SATNA,AAAP,0.741,0.375,0.649
+2014,Chhattisgarh,Rajnandgaon,Abhishek Singh,Bharatiya Janata Party,JASMER SINGH,Chandigarh,CHANDIGARH,IND,0.692,0.476,0.638
+2014,Chhattisgarh,Rajnandgaon,Abhishek Singh,Bharatiya Janata Party,KRISHNA SINGH,Jharkhand,Rajmahal,IUML,0.667,0.526,0.632
+2014,Chhattisgarh,Sarguja,Kamalbhan Singh Marabi,Bharatiya Janata Party,SHAMBHU SINGH MARAVI,Madhya Pradesh,MANDLA,BSP,0.762,0.308,0.648
+2014,Chhattisgarh,Sarguja,Kamalbhan Singh Marabi,Bharatiya Janata Party,JAIBHANSINGH PAWAIYA,Madhya Pradesh,GUNA,BJP,0.667,0.545,0.636
+2014,Chhattisgarh,Sarguja,Kamalbhan Singh Marabi,Bharatiya Janata Party,RAMASHANKER SINGH MAURYA,Uttar Pradesh,Chandauli,BSKD,0.739,0.25,0.617
+2014,Chhattisgarh,Sarguja,Kamalbhan Singh Marabi,Bharatiya Janata Party,NARAYAN SINGH SUMAN,Uttar Pradesh,Agra,BSP,0.634,0.545,0.612
+2014,Chhattisgarh,Sarguja,Kamalbhan Singh Marabi,Bharatiya Janata Party,MALIKHAN SINGH ADVOCATE,Uttar Pradesh,Farrukhabad,IND,0.667,0.444,0.611
+2014,Odisha,Aska,Ladu Kishore Swain,Biju Janata Dal,NAND KISHORE SINGH,Bihar,Patna Sahib,IND,0.778,0.4,0.683
+2014,Odisha,Aska,Ladu Kishore Swain,Biju Janata Dal,RAMA KISHORE SINGH,Bihar,Vaishali,LJP,0.722,0.5,0.667
+2014,Odisha,Aska,Ladu Kishore Swain,Biju Janata Dal,NAND KISHORE TYAGI,Madhya Pradesh,GUNA,IND,0.722,0.25,0.604
+2014,Odisha,Aska,Ladu Kishore Swain,Biju Janata Dal,RAM KISHORE DIWEDI,Uttar Pradesh,Farrukhabad,IND,0.667,0.4,0.6
+2014,Odisha,Aska,Ladu Kishore Swain,Biju Janata Dal,NANDAKISHOR SINGHA,West Bengal,Raiganj,AMB,0.667,0.364,0.591
+2014,Odisha,Balasore,Rabindra Kumar Jena,Biju Janata Dal,RAVINDRA KUMAR RAVI,Jharkhand,Palamau,IND,0.789,0.4,0.692
+2014,Odisha,Balasore,Rabindra Kumar Jena,Biju Janata Dal,RAVINDRA KUMAR,Uttar Pradesh,Varanasi,IND,0.788,0.375,0.685
+2014,Odisha,Balasore,Rabindra Kumar Jena,Biju Janata Dal,R.RAVINDRA KUMAR,Karnataka,Kolar,BDBRAJP,0.743,0.462,0.673
+2014,Odisha,Balasore,Rabindra Kumar Jena,Biju Janata Dal,RAVINDRA KUMAR DEVNATH,Uttar Pradesh,Pilibhit,IND,0.829,0.125,0.653
+2014,Odisha,Balasore,Rabindra Kumar Jena,Biju Janata Dal,DR. BINAY KUMAR JHA,Bihar,Jhanjharpur,IND,0.757,0.316,0.647
+2014,Odisha,Bargarh,Prabhas Kumar Singh,Biju Janata Dal,RAJ KUMAR SINGH,Bihar,Arrah,BJP,0.824,0.667,0.784
+2014,Odisha,Bargarh,Prabhas Kumar Singh,Biju Janata Dal,PRADEEP KUMAR SINGH,Bihar,Araria,BJP,0.789,0.615,0.746
+2014,Odisha,Bargarh,Prabhas Kumar Singh,Biju Janata Dal,DR. ARVIND KUMAR SINGH,Uttar Pradesh,Aligarh,BSP,0.7,0.714,0.704
+2014,Odisha,Bargarh,Prabhas Kumar Singh,Biju Janata Dal,RAJENDRA KUMAR SINGH,Uttar Pradesh,Dhaurahra,PECP,0.769,0.5,0.702
+2014,Odisha,Bargarh,Prabhas Kumar Singh,Biju Janata Dal,SANTOSH KUMAR SINGH,Uttar Pradesh,Pratapgarh,AITC,0.737,0.588,0.7
+2014,Odisha,Berhampur,Sidhant Mohapatra,Biju Janata Dal,SUSHANT RAJ PATHAK,Uttar Pradesh,Salempur,IND,0.629,0.588,0.618
+2014,Odisha,Berhampur,Sidhant Mohapatra,Biju Janata Dal,SANT KUMAR,Uttar Pradesh,Sitapur,CPIM,0.593,0.5,0.569
+2014,Odisha,Berhampur,Sidhant Mohapatra,Biju Janata Dal,SIDDHARTH RAUT,Maharashtra,Chandrapur,PRCP,0.581,0.526,0.567
+2014,Odisha,Berhampur,Sidhant Mohapatra,Biju Janata Dal,RASIDKHAN HASANKHAN PATHAN,Gujarat,Bhavnagar,IND,0.605,0.444,0.565
+2014,Odisha,Berhampur,Sidhant Mohapatra,Biju Janata Dal,NISHI KANT MANDAL,Bihar,Bhagalpur,BMUP,0.529,0.667,0.564
+2014,Odisha,Bhadrak,Arjun Charan Sethi,Biju Janata Dal,ARJUNARAO YEGUPATI,Andhra Pradesh,Kakinada,CPI(ML)(L),0.667,0.4,0.6
+2014,Odisha,Bhadrak,Arjun Charan Sethi,Biju Janata Dal,ARUN KUMAR JOSHI,Punjab,Amritsar,IND,0.647,0.4,0.585
+2014,Odisha,Bhadrak,Arjun Charan Sethi,Biju Janata Dal,AMAR CHAND POHIYA,Rajasthan,BHARATPUR,RJVP,0.571,0.625,0.585
+2014,Odisha,Bhadrak,Arjun Charan Sethi,Biju Janata Dal,SIMA CHANDRAVANSI,Jharkhand,Chatra,AAAP,0.571,0.615,0.582
+2014,Odisha,Bhadrak,Arjun Charan Sethi,Biju Janata Dal,NAJRUL HASSAN HASHMI,Jharkhand,Kodarma,AJSUP,0.632,0.429,0.581
+2014,Odisha,Bhubaneswar,Prasanna Kumar Patasani,Biju Janata Dal,KRISHNA KUMAR PASWAN,Bihar,Darbhanga,IND,0.744,0.5,0.683
+2014,Odisha,Bhubaneswar,Prasanna Kumar Patasani,Biju Janata Dal,PRASANNA KUMAR,Bihar,Madhepura,IND,0.757,0.3,0.643
+2014,Odisha,Bhubaneswar,Prasanna Kumar Patasani,Biju Janata Dal,PAWAN KUMAR BANSAL,Chandigarh,CHANDIGARH,INC,0.683,0.476,0.631
+2014,Odisha,Bhubaneswar,Prasanna Kumar Patasani,Biju Janata Dal,SHRAVAN KUMAR ASIJA,Haryana,Hisar,IND,0.667,0.5,0.625
+2014,Odisha,Bhubaneswar,Prasanna Kumar Patasani,Biju Janata Dal,PRADEEP KUMAR JATAV,Uttar Pradesh,Bulandshahr,BSP,0.619,0.636,0.623
+2014,Odisha,Bolangir,Kalikesh Narayan Singh Deo,Biju Janata Dal,AMLABE NARAYAN SINGH,Madhya Pradesh,RAJGARH,INC,0.739,0.4,0.654
+2014,Odisha,Bolangir,Kalikesh Narayan Singh Deo,Biju Janata Dal,RAKESH RANJAN SINHA,Bihar,Nalanda,RPI(A),0.667,0.4,0.6
+2014,Odisha,Bolangir,Kalikesh Narayan Singh Deo,Biju Janata Dal,SUDHAKAR NARAYAN SHINDE,Maharashtra,Kalyan,APoI,0.653,0.429,0.597
+2014,Odisha,Bolangir,Kalikesh Narayan Singh Deo,Biju Janata Dal,NARAYAN SINGH SUMAN,Uttar Pradesh,Agra,BSP,0.622,0.5,0.592
+2014,Odisha,Bolangir,Kalikesh Narayan Singh Deo,Biju Janata Dal,NILESH NARAYAN RANE,Maharashtra,Ratnagiri - sindhudurg,INC,0.667,0.357,0.589
+2014,Odisha,Cuttack,Bhartruhari Mahatab,Biju Janata Dal,NARAHARI MAHATO,West Bengal,Purulia,AIFB,0.706,0.286,0.601
+2014,Odisha,Cuttack,Bhartruhari Mahatab,Biju Janata Dal,ARUP KUMAR MAHANTA,Assam,Kaliabor,CPI(ML)(L),0.649,0.133,0.52
+2014,Odisha,Cuttack,Bhartruhari Mahatab,Biju Janata Dal,BHARATHI MOHAN R.K,Tamil Nadu,Mayiladuthurai,ADMK,0.595,0.286,0.517
+2014,Odisha,Cuttack,Bhartruhari Mahatab,Biju Janata Dal,SHATRUDHAN SAW,Bihar,Pataliputra,BED,0.545,0.333,0.492
+2014,Odisha,Cuttack,Bhartruhari Mahatab,Biju Janata Dal,BHARATHI KANNAMMA,Tamil Nadu,Madurai,IND,0.556,0.286,0.488
+2014,Odisha,Dhenkanal,Tathagata Satpathy,Biju Janata Dal,TATHAGATA ROY,West Bengal,Kolkata Dakshin,BJP,0.71,0.25,0.595
+2014,Odisha,Dhenkanal,Tathagata Satpathy,Biju Janata Dal,JADHAV PRATAPRAO GANPATRAO,Maharashtra,Buldhana,SHS,0.5,0.588,0.522
+2014,Odisha,Dhenkanal,Tathagata Satpathy,Biju Janata Dal,RAGHUNATHDADA PATIL,Maharashtra,Hatkanangle,AAAP,0.486,0.6,0.515
+2014,Odisha,Dhenkanal,Tathagata Satpathy,Biju Janata Dal,KOLUSU PARTHA SARATHY,Andhra Pradesh,Machilipatnam,YSRCP,0.564,0.364,0.514
+2014,Odisha,Dhenkanal,Tathagata Satpathy,Biju Janata Dal,K YADAVA SHETTY,Karnataka,Dakshina Kannada,CPM,0.485,0.56,0.504
+2014,Odisha,Jagatsinghpur,Kulamani Samal,Biju Janata Dal,MUKUL KUMAR SHARMA,Bihar,Pataliputra,SaBP,0.625,0.5,0.594
+2014,Odisha,Jagatsinghpur,Kulamani Samal,Biju Janata Dal,KALAIMANI K,Tamil Nadu,Sivaganga,MMKA,0.64,0.455,0.594
+2014,Odisha,Jagatsinghpur,Kulamani Samal,Biju Janata Dal,FULMANI HEMBRAM,Bihar,Katihar,BVM,0.621,0.5,0.591
+2014,Odisha,Jagatsinghpur,Kulamani Samal,Biju Janata Dal,KUMARI SARASWATI,Uttar Pradesh,Kanpur,IND,0.6,0.526,0.582
+2014,Odisha,Jagatsinghpur,Kulamani Samal,Biju Janata Dal,KHAN SAUMITRA,West Bengal,Bishnupur,AITC,0.593,0.455,0.558
+2014,Odisha,Jajpur,Rita Tarai,Biju Janata Dal,RINA RAGNI,Bihar,Hajipur (SC),BMUP,0.7,0.625,0.681
+2014,Odisha,Jajpur,Rita Tarai,Biju Janata Dal,NITYANAND RAI,Bihar,Ujiarpur,BJP,0.609,0.714,0.635
+2014,Odisha,Jajpur,Rita Tarai,Biju Janata Dal,RINA RANI,Bihar,Maharajganj,AAAP,0.737,0.235,0.611
+2014,Odisha,Jajpur,Rita Tarai,Biju Janata Dal,JITENDRA KUMAR RAI,Bihar,Ujiarpur,SHS,0.571,0.714,0.607
+2014,Odisha,Jajpur,Rita Tarai,Biju Janata Dal,DR. TANMAY,Rajasthan,Jaipur,IPGP,0.526,0.833,0.603
+2014,Odisha,Kalahandi,Arka Keshari Deo,Biju Janata Dal,KESHRI DEVI,Uttar Pradesh,Allahabad,BSP,0.667,0.667,0.667
+2014,Odisha,Kalahandi,Arka Keshari Deo,Biju Janata Dal,BANKA SAHADEV,Andhra Pradesh,Adilabad,IND,0.621,0.588,0.613
+2014,Odisha,Kalahandi,Arka Keshari Deo,Biju Janata Dal,CHANDRA SHEKHAR DUBEY,Jharkhand,Dhanbad,AITC,0.595,0.5,0.571
+2014,Odisha,Kalahandi,Arka Keshari Deo,Biju Janata Dal,ADARSH SHASTRI,Uttar Pradesh,Allahabad,AAAP,0.533,0.667,0.567
+2014,Odisha,Kalahandi,Arka Keshari Deo,Biju Janata Dal,VARADI SOBHARANI,Andhra Pradesh,Kadapa,DABAP,0.562,0.533,0.555
+2014,Odisha,Kandhamal,Hemendra Chandra Singh,Biju Janata Dal,ROOPA CHANDRA SINGH,Uttar Pradesh,Moradabad,IND,0.78,0.444,0.696
+2014,Odisha,Kandhamal,Hemendra Chandra Singh,Biju Janata Dal,DR. KRISHNA CHANDRA SINGHRAJ,Jharkhand,Dhanbad,IND,0.694,0.5,0.645
+2014,Odisha,Kandhamal,Hemendra Chandra Singh,Biju Janata Dal,NARENDRA BAHADUR SINGH,Uttar Pradesh,Varanasi,IND,0.727,0.353,0.634
+2014,Odisha,Kandhamal,Hemendra Chandra Singh,Biju Janata Dal,DEVENDRA CHAOURASIA,Madhya Pradesh,DAMOH,BSP,0.683,0.429,0.619
+2014,Odisha,Kandhamal,Hemendra Chandra Singh,Biju Janata Dal,DR. JITENDRA SINGH,Jammu & Kashmir,Udhampur,BJP,0.667,0.471,0.618
+2014,Odisha,Kendrapara,Baijayant Panda,Biju Janata Dal,JAYANT PANDEY,Jharkhand,Dhanbad,AIFB,0.786,0.235,0.648
+2014,Odisha,Kendrapara,Baijayant Panda,Biju Janata Dal,BAIDYANATH HANSDA,West Bengal,Purulia,JDP,0.75,0.235,0.621
+2014,Odisha,Kendrapara,Baijayant Panda,Biju Janata Dal,SANJAY NILKANTH GAWANDE,Maharashtra,Chandrapur,IND,0.579,0.6,0.584
+2014,Odisha,Kendrapara,Baijayant Panda,Biju Janata Dal,JAIYANTRI PRASAD,Uttar Pradesh,Sant Kabir Nagar,IND,0.645,0.385,0.58
+2014,Odisha,Kendrapara,Baijayant Panda,Biju Janata Dal,BASANT PANWAR,NCT OF Delhi,NORTH WEST DELHI,BSP,0.714,0.154,0.574
+2014,Odisha,Keonjhar,Sakuntala Laguri,Biju Janata Dal,SHIVAKUMAR TALAWAR,Karnataka,Haveri,IND,0.588,0.429,0.548
+2014,Odisha,Keonjhar,Sakuntala Laguri,Biju Janata Dal,SATYALAL SARKAR,West Bengal,Jalpaiguri,BJP,0.581,0.333,0.519
+2014,Odisha,Keonjhar,Sakuntala Laguri,Biju Janata Dal,SOHANLAL PUROHIT,Maharashtra,Thane,IND,0.562,0.308,0.499
+2014,Odisha,Keonjhar,Sakuntala Laguri,Biju Janata Dal,KANKANALA NARAYANA,Andhra Pradesh,Khammam,CPI,0.529,0.4,0.497
+2014,Odisha,Keonjhar,Sakuntala Laguri,Biju Janata Dal,PROSANTA BAG,West Bengal,Bardhaman Purba,JDP,0.571,0.261,0.494
+2014,Odisha,Koraput,Jhina Hikaka,Biju Janata Dal,RANJANA KAKKAR,Uttar Pradesh,Fatehpur,IND,0.615,0.4,0.562
+2014,Odisha,Koraput,Jhina Hikaka,Biju Janata Dal,CHINTA MOHAN,Andhra Pradesh,Tirupati,INC,0.583,0.4,0.537
+2014,Odisha,Koraput,Jhina Hikaka,Biju Janata Dal,JANNAT NISHA,Uttar Pradesh,Rampur,AIMF,0.5,0.615,0.529
+2014,Odisha,Koraput,Jhina Hikaka,Biju Janata Dal,JHA SHANTANU,West Bengal,Krishnanagar,CPM,0.583,0.316,0.516
+2014,Odisha,Koraput,Jhina Hikaka,Biju Janata Dal,CHINTAPALLI KANAKA RAO,Andhra Pradesh,Narsapuram,BSP,0.529,0.471,0.515
+2014,Odisha,Mayurbhanj,Rama Chandra Hansdah,Biju Janata Dal,RAMDAS CHANDRABHANJI TADAS,Maharashtra,Wardha,BJP,0.739,0.5,0.679
+2014,Odisha,Mayurbhanj,Rama Chandra Hansdah,Biju Janata Dal,RAMESH CHANDRA BADAL,Bihar,Arrah,BSP,0.75,0.4,0.662
+2014,Odisha,Mayurbhanj,Rama Chandra Hansdah,Biju Janata Dal,SARAT CHANDRA MANDAL,West Bengal,Bangaon,RAHM,0.75,0.353,0.651
+2014,Odisha,Mayurbhanj,Rama Chandra Hansdah,Biju Janata Dal,RAM CHANDRA RAM,Bihar,Samastipur (SC),BSP,0.743,0.348,0.644
+2014,Odisha,Mayurbhanj,Rama Chandra Hansdah,Biju Janata Dal,RAMCHANDRA SARAS,Uttar Pradesh,Banda,CPI,0.722,0.4,0.642
+2014,Odisha,Nabarangpur,Balabhadra Majhi,Biju Janata Dal,CHANDANA MAJHI,West Bengal,Bardhaman Purba,INC,0.667,0.615,0.654
+2014,Odisha,Nabarangpur,Balabhadra Majhi,Biju Janata Dal,BALBHADRA MISHRA,Madhya Pradesh,BHOPAL,bjyp,0.75,0.118,0.592
+2014,Odisha,Nabarangpur,Balabhadra Majhi,Biju Janata Dal,CHANDRA MOHAN JHA,Bihar,Jhanjharpur,IND,0.606,0.545,0.591
+2014,Odisha,Nabarangpur,Balabhadra Majhi,Biju Janata Dal,"BALASUBRAMANIAN, G.",Tamil Nadu,Karur,IND,0.606,0.5,0.58
+2014,Odisha,Nabarangpur,Balabhadra Majhi,Biju Janata Dal,AB. HAMID MALIK,Jammu & Kashmir,Baramulla,IND,0.6,0.5,0.575
+2014,Odisha,Puri,Pinaki Misra,Biju Janata Dal,R. K. MISRA,Uttar Pradesh,Sitapur,NBDP,0.667,0.545,0.636
+2014,Odisha,Puri,Pinaki Misra,Biju Janata Dal,ASHOK MISHRA,Uttar Pradesh,Fatehpur,SARP,0.667,0.5,0.625
+2014,Odisha,Puri,Pinaki Misra,Biju Janata Dal,SHEFALI MISRA,Uttar Pradesh,Sitapur,AAAP,0.64,0.545,0.616
+2014,Odisha,Puri,Pinaki Misra,Biju Janata Dal,MINATI SARKAR,West Bengal,Uluberia,SUCI,0.64,0.5,0.605
+2014,Odisha,Puri,Pinaki Misra,Biju Janata Dal,AVINASH KUMAR MISHRA,Uttar Pradesh,Hamirpur,AITC,0.625,0.5,0.594
+2014,Odisha,Sambalpur,Nagendra Kumar Pradhan,Biju Janata Dal,NAGENDRA KUMAR,Bihar,Pataliputra,BVM,0.778,0.6,0.733
+2014,Odisha,Sambalpur,Nagendra Kumar Pradhan,Biju Janata Dal,VIRENDRA KUMAR SHARMA,Madhya Pradesh,JABALPUR,IND,0.651,0.824,0.694
+2014,Odisha,Sambalpur,Nagendra Kumar Pradhan,Biju Janata Dal,AMRENDRA KUMAR YADAV,Bihar,Ujiarpur,RKSP,0.762,0.471,0.689
+2014,Odisha,Sambalpur,Nagendra Kumar Pradhan,Biju Janata Dal,ANAND KUMAR JAIN,Bihar,Bhagalpur,IND,0.684,0.667,0.68
+2014,Odisha,Sambalpur,Nagendra Kumar Pradhan,Biju Janata Dal,NEERAJ KUMAR ADVOCATE,Uttar Pradesh,Akbarpur,IND,0.651,0.706,0.665
+2014,Odisha,Sundargarh,Jual @ Juel Oram,Bharatiya Janata Party,KALI RAM,Uttar Pradesh,Domariyaganj,IND,0.545,0.455,0.523
+2014,Odisha,Sundargarh,Jual @ Juel Oram,Bharatiya Janata Party,MULARAM,Rajasthan,Nagaur,IND,0.476,0.625,0.513
+2014,Odisha,Sundargarh,Jual @ Juel Oram,Bharatiya Janata Party,SATPAL S/O LOKRAM,Haryana,Bhiwani-Mahendragarh,IND,0.516,0.467,0.504
+2014,Odisha,Sundargarh,Jual @ Juel Oram,Bharatiya Janata Party,JAGAT RAM,Uttar Pradesh,Bahraich,AAAP,0.522,0.444,0.502
+2014,Odisha,Sundargarh,Jual @ Juel Oram,Bharatiya Janata Party,KUMBHA RAM,Rajasthan,Ganganagar,IND,0.5,0.5,0.5

@@ -1,0 +1,231 @@
+ELECTORaW — ECI WORKBOOK INSPECTION
+Files discovered: 12
+Original source files were not modified.
+
+==========================================================================================
+FILE: 2014\Constituency wise detailed result.xlsx
+==========================================================================================
+Sheets: ['Sheet1']
+
+SHEET: Sheet1
+Raw rows: 8358
+Maximum columns: 14
+First 8 rows:
+  Row 1: ['', '33. CONSTITUENCY WISE DETAILED RESULTS', '', '', '', '', '', '', '', '', '', '', '', '']
+  Row 2: ['', '', '', '', '', '', '', '', 'Votes Secured', '', '', '', '', '']
+  Row 3: ['State Name', 'PC NAME', 'CANDIDATES NAME', 'SEX', 'AGE', 'CATEGORY', 'PARTY NAME', 'PARTY SYMBOL', 'GENERAL', 'POSTAL ', 'TOTAL', 'OVER TOTAL ELECTORS IN CONSTITUENCY', 'OVER TOTAL VOTES POLLED IN CONSTITUENCY', 'Total Electors']
+  Row 4: ['Andhra Pradesh', 'Adilabad ', 'GODAM NAGESH', 'M', 49.0, 'ST', 'TRS', 'Car', 425762.0, 5085.0, 430847.0, 31.0793186379106, 40.8180724375432, 1386282.0]
+  Row 5: ['Andhra Pradesh', 'Adilabad ', 'NARESH', 'M', 37.0, 'ST', 'INC', 'Hand', 257994.0, 1563.0, 259557.0, 18.7232467852861, 24.5902058681421, 1386282.0]
+  Row 6: ['Andhra Pradesh', 'Adilabad ', 'RAMESH RATHOD', 'M', 48.0, 'ST', 'TDP', 'Bicycle', 182879.0, 1319.0, 184198.0, 13.2871955345305, 17.4507593341734, 1386282.0]
+  Row 7: ['Andhra Pradesh', 'Adilabad ', 'RATHOD SADASHIV', 'M', 55.0, 'ST', 'BSP', 'Elephant', 94363.0, 57.0, 94420.0, 6.81102401964391, 8.94526920125435, 1386282.0]
+  Row 8: ['Andhra Pradesh', 'Adilabad ', 'NETHAWATH RAMDAS', 'M', 44.0, 'ST', 'IND', 'Auto- Rickshaw', 41028.0, 4.0, 41032.0, 2.95985953795837, 3.887336219719, 1386282.0]
+Non-empty rows: 8358
+
+==========================================================================================
+FILE: 2014\Constituency(PC) wise summary table.xlsx
+==========================================================================================
+Sheets: ['Sheet1']
+
+SHEET: Sheet1
+Raw rows: 546
+Maximum columns: 12
+First 8 rows:
+  Row 1: ['', 'CONSTITUENCY (PC) WISE- SUMMARY', '', '', '', '', '', '', '', '', '', '']
+  Row 2: ['STATE', 'PC NO', 'PC NAME', 'NO. OF AC SEGMENTS', 'NO. OF POLLING STATION', 'ELECTORS', 'AVG. NO OF ELECTORS PER POLLING STATION', 'NOMINATIONS', 'CONTESTENTS', 'FORFIETED DEPOSITS', 'VOTERS', 'VOTERS TURN OUT (IN %)']
+  Row 3: ['Andhra Pradesh', 1.0, 'Adilabad ', 7.0, 1662.0, 1386282.0, 834.0, 11.0, 8.0, 5.0, 1055593.0, 76.1456182796862]
+  Row 4: ['Andhra Pradesh', 2.0, 'Peddapalle ', 7.0, 1707.0, 1425355.0, 835.0, 21.0, 17.0, 15.0, 1025194.0, 71.9255203089757]
+  Row 5: ['Andhra Pradesh', 3.0, 'Karimnagar ', 7.0, 1876.0, 1550810.0, 827.0, 20.0, 17.0, 14.0, 1127225.0, 72.6862091423192]
+  Row 6: ['Andhra Pradesh', 4.0, 'Nizamabad', 7.0, 1653.0, 1496193.0, 905.0, 39.0, 16.0, 13.0, 1034032.0, 69.1108700548659]
+  Row 7: ['Andhra Pradesh', 5.0, 'Zahirabad', 7.0, 1757.0, 1445354.0, 823.0, 15.0, 10.0, 8.0, 1099784.0, 76.0909784039066]
+  Row 8: ['Andhra Pradesh', 6.0, 'Medak', 7.0, 1817.0, 1536166.0, 845.0, 15.0, 13.0, 11.0, 1193548.0, 77.6965510237826]
+Non-empty rows: 546
+
+==========================================================================================
+FILE: 2014\List of Successful Candidates.xlsx
+==========================================================================================
+Sheets: ['ListOfSuccessfulCandidates']
+
+SHEET: ListOfSuccessfulCandidates
+Raw rows: 545
+Maximum columns: 9
+First 8 rows:
+  Row 1: ['', 'LIST OF SUCESSFULL CANDIDATES', '', '', '', '', '', '', '']
+  Row 2: ['SL. No. ', 'STATE NAME', 'CONSTITUENCY', 'WINNER NAME', 'CATEGORY', 'SOCIAL CATEGORY', 'PARTY', 'PARTY SYMBOL', 'MARGIN']
+  Row 3: [1.0, 'Andaman & Nicobar Islands', 'Andaman & Nicobar Islands', 'Bishnu Pada Ray', 'GEN', 'GEN', 'Bharatiya Janata Party', 'Lotus', 7812.0]
+  Row 4: [2.0, 'Andhra Pradesh', 'Adilabad ', 'Godam Nagesh', 'ST', 'ST', 'Telangana Rashtra Samithi', 'Car', 171290.0]
+  Row 5: [3.0, 'Andhra Pradesh', 'Amalapuram ', 'Dr Pandula Ravindra Babu', 'SC', 'SC', 'Telugu Desam', 'Bicycle', 120576.0]
+  Row 6: [4.0, 'Andhra Pradesh', 'Anakapalli', 'Muttamsetti Srinivasa Rao (Avanthi)', 'GEN', 'GEN', 'Telugu Desam', 'Bicycle', 47932.0]
+  Row 7: [5.0, 'Andhra Pradesh', 'Anantapur', 'J.C. Divakar Reddi', 'GEN', 'GEN', 'Telugu Desam', 'Bicycle', 61991.0]
+  Row 8: [6.0, 'Andhra Pradesh', 'Aruku ', 'Kothapalli Geetha', 'ST', 'ST', 'Yuvajana Sramika Rythu Congress Party', 'Ceiling Fan', 91398.0]
+Non-empty rows: 545
+
+==========================================================================================
+FILE: 2014\State wise seat won and valid votes polled by political party.xlsx
+==========================================================================================
+Sheets: ['StateWiseSeatWon']
+
+SHEET: StateWiseSeatWon
+Raw rows: 261
+Maximum columns: 8
+First 8 rows:
+  Row 1: ['State Wise Seat Won & Valid Votes Polled by Political Parties', '', '', '', '', '', '', '']
+  Row 2: ['STATE NAME', 'PARTY TYPE', 'PARTY NAME', 'Total Valid Votes Polled in the State', 'TOTAL ELECTORS IN THE STATE', 'SEATS WON', 'TOTAL VALID VOTES POLLED BY PARTY', '% OF VALID VOTES POLLED BY PARTY']
+  Row 3: ['Andhra Pradesh', 'N', 'Bharatiya Janata Party', 48026634.0, 64934138.0, 3.0, 4091908.0, 8.52]
+  Row 4: ['Andhra Pradesh', 'N', 'Bahujan Samaj Party', 48026634.0, 64934138.0, 0.0, 397567.0, 0.83]
+  Row 5: ['Andhra Pradesh', 'N', 'Communist Party of India', 48026634.0, 64934138.0, 0.0, 187702.0, 0.39]
+  Row 6: ['Andhra Pradesh', 'N', 'Communist Party of India  (Marxist)', 48026634.0, 64934138.0, 0.0, 158524.0, 0.33]
+  Row 7: ['Andhra Pradesh', 'N', 'Indian National Congress', 48026634.0, 64934138.0, 2.0, 5578329.0, 11.62]
+  Row 8: ['Andhra Pradesh', 'N', 'Nationalist Congress Party', 48026634.0, 64934138.0, 0.0, 4769.0, 0.01]
+Non-empty rows: 261
+
+==========================================================================================
+FILE: 2019\17. State Wise Seat Won & Valid Votes Polled by Political Parties.xls
+==========================================================================================
+Sheets: ['mySheet']
+
+SHEET: mySheet
+Raw rows: 1402
+Maximum columns: 8
+First 8 rows:
+  Row 1: ['State wise seat won and valid votes polled by political parties', '', '', '', '', '', '', '']
+  Row 2: ['State Name', 'Party Type', 'Party Name', 'Total Valid Votes Polled in the State', 'Total Electors in the State', 'Seats Won', 'Total Valid Votes Polled by Party', '% Valid Votes Polled by Party']
+  Row 3: ['Andhra Pradesh', 'N', 'Bahujan Samaj Party', 31143712.0, 39405967.0, 0.0, 83613.0, 0.2685]
+  Row 4: ['Andhra Pradesh', 'N', 'Bharatiya Janata Party', 31143712.0, 39405967.0, 0.0, 303985.0, 0.9761]
+  Row 5: ['Andhra Pradesh', 'N', 'Communist Party of India', 31143712.0, 39405967.0, 0.0, 26536.0, 0.0852]
+  Row 6: ['Andhra Pradesh', 'N', 'Communist Party of India  (Marxist)', 31143712.0, 39405967.0, 0.0, 37895.0, 0.1217]
+  Row 7: ['Andhra Pradesh', 'N', 'Indian National Congress', 31143712.0, 39405967.0, 0.0, 406977.0, 1.3068]
+  Row 8: ['Andhra Pradesh', 'S', 'All India Forward Bloc', 31143712.0, 39405967.0, 0.0, 1687.0, 0.0054]
+Non-empty rows: 1399
+
+==========================================================================================
+FILE: 2019\33. Constituency Wise Detailed Result.xls
+==========================================================================================
+Sheets: ['mySheet']
+
+SHEET: mySheet
+Raw rows: 8605
+Maximum columns: 14
+First 8 rows:
+  Row 1: ['33 - CONSTITUENCY WISE DETAILED RESULT', '', '', '', '', '', '', '', '', '', '', '', '', '']
+  Row 2: ['', '', '', '', '', '', '', '', 'Votes Secured', '', '', '% of votes secured', '', '']
+  Row 3: [' State Name ', ' PC NAME ', ' CANDIDATES NAME ', ' SEX ', ' AGE ', ' CATEGORY ', ' PARTY NAME ', ' PARTY SYMBOL ', ' GENERAL ', ' POSTAL ', ' TOTAL ', 'OVER TOTAL ELECTORS IN CONSTITUENCY', 'OVER TOTAL VOTES POLLED IN CONSTITUENCY', 'Total Electors']
+  Row 4: ['Andhra Pradesh', 'Aruku ', 'KISHORE CHANDRA DEO', 'MALE', 72.0, 'ST', 'TDP', 'Bicycle', 336163.0, 1938.0, 338101.0, 23.294529901103612, 31.356893441596682, 1451418.0]
+  Row 5: ['Andhra Pradesh', 'Aruku ', 'Dr. KOSURI KASI VISWANADHA VEERA VENKATA SATYANARAYANA REDDY', 'MALE', 54.0, 'ST', 'BJP', 'Lotus', 17578.0, 289.0, 17867.0, 1.2310030604553615, 1.6570599173649532, 1451418.0]
+  Row 6: ['Andhra Pradesh', 'Aruku ', 'GODDETI. MADHAVI', 'FEMALE', 26.0, 'ST', 'YSRCP', 'Ceiling Fan', 557561.0, 4629.0, 562190.0, 38.73384510871438, 52.13983964534633, 1451418.0]
+  Row 7: ['Andhra Pradesh', 'Aruku ', 'SHRUTI DEVI VYRICHERLA', 'FEMALE', 46.0, 'ST', 'INC', 'Hand', 17656.0, 74.0, 17730.0, 1.2215640153284582, 1.6443539673633298, 1451418.0]
+  Row 8: ['Andhra Pradesh', 'Aruku ', 'GANGULAIAH VAMPURU.', 'MALE', 49.0, 'ST', 'JnP', 'Glass Tumbler', 42245.0, 549.0, 42794.0, 2.9484269865745083, 3.9688936085361726, 1451418.0]
+Non-empty rows: 8602
+
+==========================================================================================
+FILE: 2019\4. List Of Successful Candidates.xls
+==========================================================================================
+Sheets: ['mySheet']
+
+SHEET: mySheet
+Raw rows: 551
+Maximum columns: 9
+First 8 rows:
+  Row 1: ['4 - List Of Successful Candidate', '', '', '', '', '', '', '', '']
+  Row 2: ['', '', '', '', '', '', '', '', '']
+  Row 3: ['SL. No.', 'STATE', 'CONSTITUENCY', 'WINNER NAME', 'CATEGORY', 'SOCIAL CATEGORY', 'PARTY', 'PARTY SYMBOL', 'MARGIN']
+  Row 4: [1.0, 'Andaman & Nicobar Islands', 'Andaman & Nicobar Islands', 'KULDEEP RAI SHARMA', 'GEN', 'GENERAL', 'INC', 'Hand', 1407.0]
+  Row 5: [2.0, 'Andhra Pradesh', 'Kakinada', 'VANGA GEETHAVISWANATH', 'GEN', 'GENERAL', 'YSRCP', 'Ceiling Fan', 25738.0]
+  Row 6: [3.0, 'Andhra Pradesh', 'Amalapuram ', 'CHINTA ANURADHA', 'SC', 'SC', 'YSRCP', 'Ceiling Fan', 39795.0]
+  Row 7: [4.0, 'Andhra Pradesh', 'Rajahmundry', 'MARGANI BHARAT', 'GEN', 'GENERAL', 'YSRCP', 'Ceiling Fan', 121634.0]
+  Row 8: [5.0, 'Andhra Pradesh', 'Narsapuram', 'KANUMURU RAGHU RAMA KRISHNA RAJU', 'GEN', 'GENERAL', 'YSRCP', 'Ceiling Fan', 32676.0]
+Non-empty rows: 547
+
+==========================================================================================
+FILE: 2019\7. Constituency (PC) wise Summary.xls
+==========================================================================================
+Sheets: ['Sheet1']
+
+SHEET: Sheet1
+Raw rows: 620
+Maximum columns: 11
+First 8 rows:
+  Row 1: ['7 - Constituency (PC) Wise Summary', '', '', '', '', '', '', '', '', '', '']
+  Row 2: ['PC No', 'PC Name', 'No Of AC Segments', 'No Of Polling Station', 'Electors', 'Avg. No. of Electors Per PS', 'Nominations', 'Contestants', 'Forefeited Deposits', 'Voters', 'Voters Turn Out (%)']
+  Row 3: ['Andaman & Nicobar Islands', '', '', '', '', '', '', '', '', '', '']
+  Row 4: [1.0, 'Andaman & Nicobar Islands', 1.0, 407.0, '318471', 782.0, 19.0, 15.0, '13', '207398', 65.12]
+  Row 5: ['State-Total', '', 1.0, 407.0, 318471.0, 782.0, 19.0, 15.0, 13.0, 207398.0, 65.12]
+  Row 6: ['Andhra Pradesh', '', '', '', '', '', '', '', '', '', '']
+  Row 7: [1.0, 'Aruku ', 7.0, 2035.0, '1451418', 713.0, 13.0, 10.0, '8', '1078235', 74.29]
+  Row 8: [2.0, 'Srikakulam', 7.0, 2031.0, '1553860', 765.0, 13.0, 9.0, '7', '1164286', 74.93]
+Non-empty rows: 620
+
+==========================================================================================
+FILE: 2024\17-State-Wise-Seat-Won-&-Valid-Votes-Polled-by-Political-Parties.xls
+==========================================================================================
+Sheets: ['Worksheet']
+
+SHEET: Worksheet
+Raw rows: 1344
+Maximum columns: 8
+First 8 rows:
+  Row 1: ['17 - State wise seat won and valid votes polled by political party', '', '', '', '', '', '', '']
+  Row 2: ['STATE NAME', 'Party Type', 'Party Name', 'Total Valid Votes Polled in the State', 'Total Electors in the State', 'Seats Won', 'Total Valid Votes Polled by Party', '% Valid Votes Polled by Party']
+  Row 3: ['Andhra Pradesh', 'N', 'Bharatiya Janata Party', 33327256.0, 41401887.0, 3.0, 3808941.0, 11.43]
+  Row 4: ['Andhra Pradesh', 'N', 'Bahujan Samaj Party', 33327256.0, 41401887.0, 0.0, 226147.0, 0.68]
+  Row 5: ['Andhra Pradesh', 'N', 'Communist Party of India (Marxist)', 33327256.0, 41401887.0, 0.0, 123129.0, 0.37]
+  Row 6: ['Andhra Pradesh', 'N', 'Indian National Congress', 33327256.0, 41401887.0, 0.0, 912142.0, 2.74]
+  Row 7: ['Andhra Pradesh', 'S', 'Telugu Desam', 33327256.0, 41401887.0, 16.0, 12775270.0, 38.33]
+  Row 8: ['Andhra Pradesh', 'S', 'Yuvajana Sramika Rythu Congress Party', 33327256.0, 41401887.0, 4.0, 13316134.0, 39.96]
+Non-empty rows: 1340
+
+==========================================================================================
+FILE: 2024\33-Constituency-Wise-Detailed-Result.xls
+==========================================================================================
+Sheets: ['Worksheet']
+
+SHEET: Worksheet
+Raw rows: 8911
+Maximum columns: 17
+First 8 rows:
+  Row 1: ['33 - CONSTITUENCY WISE DETAILED RESULT', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+  Row 2: ['', '', '', '', '', '', '', '', '', '', 'Votes Secured', '', '', '% of Votes Secured', '', '', '']
+  Row 3: ['State Name', 'PC Name', 'Candidate Name', 'Gender', 'Age', 'Category', 'Party Name', 'Party Symbol', 'Total Votes Polled In\nThe Constituency', 'Valid Votes', 'General', 'Postal', 'Total', 'Over Total Electors In Constituency', 'Over Total Votes Polled In Constituency', 'Over Total Valid Votes Polled In Constituency', 'Total Electors']
+  Row 4: ['Andhra Pradesh', 'Araku', 'GUMMA THANUJA RANI', 'FEMALE', 31.0, 'ST', 'YSRCP', 'Ceiling fan', 1165787.0, 1113975.0, 471470.0, 5535.0, 477005.0, 30.63, 40.92, 42.82, 1557153.0]
+  Row 5: ['Andhra Pradesh', 'Araku', 'KOTHAPALLI GEETHA', 'FEMALE', 53.0, 'ST', 'BJP', 'Lotus', 1165787.0, 1113975.0, 417113.0, 9312.0, 426425.0, 27.38, 36.58, 38.28, 1557153.0]
+  Row 6: ['Andhra Pradesh', 'Araku', 'APPALANARASA PACHIPENTA', 'MALE', 41.0, 'ST', 'CPI(M)', 'Hammer, Sickle and Star', 1165787.0, 1113975.0, 119016.0, 4113.0, 123129.0, 7.91, 10.56, 11.05, 1557153.0]
+  Row 7: ['Andhra Pradesh', 'Araku', 'NOTA', '', '', '', 'NOTA', 'NOTA', 1165787.0, 1113975.0, 50205.0, 265.0, 50470.0, 3.24, 4.33, 4.53, 1557153.0]
+  Row 8: ['Andhra Pradesh', 'Araku', 'AVASHYA LAHARI . VARAM', 'FEMALE', 30.0, 'ST', 'BSP', 'Elephant', 1165787.0, 1113975.0, 24858.0, 892.0, 25750.0, 1.65, 2.21, 2.31, 1557153.0]
+Non-empty rows: 8907
+
+==========================================================================================
+FILE: 2024\4-List-Of-Successful-Candidate.xls
+==========================================================================================
+Sheets: ['Worksheet']
+
+SHEET: Worksheet
+Raw rows: 552
+Maximum columns: 20
+First 8 rows:
+  Row 1: ['4. List Of Successful Candidate', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+  Row 2: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+  Row 3: ['SL. NO.', 'State', 'Const No.', 'Constituency', 'Constituency Type', 'Total Valid Votes', 'Winner Name', 'Social Category', 'Gender', 'Party', 'Party Symbol', 'Vote Secured', 'Runner Up Name', 'Social Category', 'Gender', 'Party', 'Party Symbol', 'Vote Secured', 'Margin', 'Margin %']
+  Row 4: [1.0, 'Andhra Pradesh', 1.0, 'Araku', 'ST', 1113975.0, 'GUMMA THANUJA RANI', 'ST', 'FEMALE', 'YSRCP', 'Ceiling fan', 477005.0, 'KOTHAPALLI GEETHA', 'ST', 'FEMALE', 'BJP', 'Lotus', 426425.0, 50580.0, 4.54]
+  Row 5: [2.0, 'Andhra Pradesh', 2.0, 'Srikakulam', 'GEN', 1211081.0, 'KINJARAPU RAMMOHAN NAIDU', 'GENERAL', 'MALE', 'TDP', 'Bicycle', 754328.0, 'TILAK PERADA', 'GENERAL', 'MALE', 'YSRCP', 'Ceiling fan', 426427.0, 327901.0, 27.08]
+  Row 6: [3.0, 'Andhra Pradesh', 3.0, 'Vizianagaram', 'GEN', 1275992.0, 'APPALANAIDU KALISETTI', 'GENERAL', 'MALE', 'TDP', 'Bicycle', 743113.0, 'BELLANA CHANDRASEKHAR', 'GENERAL', 'MALE', 'YSRCP', 'Ceiling fan', 493762.0, 249351.0, 19.54]
+  Row 7: [4.0, 'Andhra Pradesh', 4.0, 'Visakhapatnam', 'GEN', 1381812.0, 'SRIBHARAT MATHUKUMILI', 'GENERAL', 'MALE', 'TDP', 'Bicycle', 907467.0, 'JHANSI LAKSHMI. BOTCHA.', 'GENERAL', 'FEMALE', 'YSRCP', 'Ceiling fan', 403220.0, 504247.0, 36.49]
+  Row 8: [5.0, 'Andhra Pradesh', 5.0, 'Anakapalle', 'GEN', 1299097.0, 'C.M.RAMESH', 'GENERAL', 'MALE', 'BJP', 'Lotus', 762069.0, 'BUDI MUTYALA NAIDU', 'GENERAL', 'MALE', 'YSRCP', 'Ceiling fan', 465539.0, 296530.0, 22.83]
+Non-empty rows: 547
+
+==========================================================================================
+FILE: 2024\7-Constituency-(PC)-Wise-Summary.xls
+==========================================================================================
+Sheets: ['Worksheet']
+
+SHEET: Worksheet
+Raw rows: 625
+Maximum columns: 11
+First 8 rows:
+  Row 1: ['7 - Constituency (PC) Wise Summary', '', '', '', '', '', '', '', '', '', '']
+  Row 2: ['', '', '', '', '', '', '', '', '', '', '']
+  Row 3: ['PC No', 'PC Name', 'No Of AC Segments', 'PS', 'Total Electors', 'Avg. No. of Electors Per PS', 'Nominations', 'Contestants', 'FD', 'Total Voters', 'VTR (%)']
+  Row 4: ['Andhra Pradesh', '', '', '', '', '', '', '', '', '', '']
+  Row 5: [1.0, 'Araku', 7.0, 2052.0, 1557153.0, 759.0, 23.0, 13.0, 11.0, 1165787.0, 74.87]
+  Row 6: [2.0, 'Srikakulam', 7.0, 2049.0, 1646686.0, 804.0, 16.0, 13.0, 11.0, 1241169.0, 75.37]
+  Row 7: [3.0, 'Vizianagaram', 7.0, 1886.0, 1590994.0, 844.0, 18.0, 15.0, 13.0, 1307632.0, 82.19]
+  Row 8: [4.0, 'Visakhapatnam', 7.0, 1962.0, 1931398.0, 984.0, 39.0, 33.0, 31.0, 1391130.0, 72.03]
+Non-empty rows: 620
